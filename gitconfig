@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laurannefossat10@gmail.com
+	name = Lauranne Fossat
